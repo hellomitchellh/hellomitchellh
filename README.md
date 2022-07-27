@@ -5,7 +5,7 @@ I'm a Los Angeles software engineer proficient in both Frontend development and 
 
 All of my projects are available [here](https://mitchellh.netlify.app/).
 
-You can reach me @ **helloMitchellH@gmail.comm**.
+You can reach me @ **helloMitchellH@gmail.com**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hellomitchellh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hellomitchellh/" height="30" width="40" /></a>
