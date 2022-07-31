@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Mitchell! I'm a Full-Stack Software Engineer.</h1>
-I'm a Los Angeles based software engineer proficient in both Frontend development and Backend development. I have extensive knowledge in <strong> HTML, CSS, Javascript, MongoDB, and React. </strong> As a software engineer, I build responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.
+I'm a Los Angeles based software engineer proficient in both front-end development and back-end development. I have extensive knowledge in <strong> HTML, CSS, Javascript, MongoDB, and React. </strong> As a software engineer, I build responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration.
 
 </br>
 
