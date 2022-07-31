@@ -32,7 +32,7 @@ All of my projects are available [here](https://mitchellh.netlify.app/). You can
 
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellomitchellh&theme=github-dark-blue" alt="mitchellh" /></p>
+<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=hellomitchellh&theme=github-dark-blue" alt="mitchellh" /></div>
 
 
 </br>
@@ -59,12 +59,12 @@ All of my projects are available [here](https://mitchellh.netlify.app/). You can
 <h3 align='center'>Backend<h3>   
 
 <div align="center">  
-<img style="margin: 10px" src="mongoDB.svg" alt="MongoDB" height="75" />  
+<img style="margin: 10px" src="mongodb.svg" alt="MongoDB" height="75" />  
 <img style="margin: 10px" src="nodedotjs.svg" alt="Node.js" height="75" />  
 <img style="margin: 10px" src="git.svg" alt="Git" height="75" />  
 <img style="margin: 10px" src="javascript.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="express.svg" alt="Express.js" height="75" />
-<img style="margin: 10px" src="postgreSQL.svg" alt="PostgreSQL" height="75" />  
+<img style="margin: 10px" src="postgresql.svg" alt="PostgreSQL" height="75" />  
 </div>
 
 </td></tr></table>
