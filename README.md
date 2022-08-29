@@ -114,7 +114,49 @@ All of my projects are available [here](https://mitchellh.netlify.app/). You can
 						</a>	
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-        </div>
+        		</div>
+			</td>
+		</tr>
+		<tr>
+			<td width="50%">
+				<h3 align="center" color="white">MVC - Lecture</h2>
+				<div align="center" >  
+					<a href='https://docs.google.com/presentation/d/1Gxz1C8xndax36A0C3-F0S9QTqErQd4mkNHLFQ4lRhp0/edit?usp=sharing'>
+						<img src="mvc-lecture.png" alt="MVC Lecture Slides" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/hellomitchellh/MVC-lecture" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://docs.google.com/presentation/d/1Gxz1C8xndax36A0C3-F0S9QTqErQd4mkNHLFQ4lRhp0/edit?usp=sharing" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=3f82b9"/>
+						</a>	
+					</p>
+					<p><strong>Architectural Paradigm Lecture</strong> - Software Engineering presentation slides covering MVC (Model, View, Controller)</p>
+				</div>
+			</td>
+			<td width="50%">
+				<!-- <h3 align="center" color="white">Personal Portfolio</h2>
+				<div align="center" >  
+					<a href='https://mitchellh.netlify.app/'>
+						<img src="mitchell-portfolio.png" alt="Personal Portfolio" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/hellomitchellh/portfolio" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://mitchellh.netlify.app/" target="_blank">
+							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=3f82b9"/>
+						</a>	
+					</p>
+					 <p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        		</div> -->
+			</td>
+		</tr>
 			<!-- <tr>
 			<td width="50%">
 				<h3 align="center" color="white">King's Cup</h2>
@@ -152,7 +194,8 @@ All of my projects are available [here](https://mitchellh.netlify.app/). You can
 						</a>	
 					</p>
 					 <p><strong>Node.js, Express, MongoDB</strong> - To Do App</p>
-				</div></td> -->
+				</div>
+			</td> -->
 	</table>
 </div>
 
