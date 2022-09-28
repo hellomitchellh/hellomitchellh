@@ -4,7 +4,7 @@
 
 <br/> -->
 
-<h2 align="center">Hi! I'm Mitchell! I'm a Full-Stack Software Engineer.</h2>
+<h2 align="center">Hi, I'm Mitchell! I'm a Full-Stack Software Engineer.</h2>
 
 <br>
 
